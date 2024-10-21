@@ -1,0 +1,57 @@
+Make a directory
+mkdir [directory-name] *****
+
+Delete a directory
+rmdir [directory-name] *****
+
+Print Working Directory to see the current directory
+pwd *****
+
+List all the files and folders
+ls *****
+
+Change Directory
+cd [directory-name] *****
+
+Go back one folder
+cd .. *****
+
+Create a file
+touch [filename.extension] *****
+
+Delete a file
+rm [filename.extension] *****
+
+clear the command
+clear
+
+ls -a list the files hidden or not
+
+mkdir .hidden_folder - create a hidden folder command
+ls -l to see the total folders
+
+ls -la wil show the total including internal infor
+
+find . to see everything
+
+
+want to see current folder - find . -type d
+
+f = files d = directory
+
+to delete a hidden folder rmdir .hidden_folder
+
+
+create hidden file touch .hidden_file.txt
+
+delete hidden file rm .hidden_file.txt
+
+rename file = mv means move
+mv test.txt rename_test.txt
+
+cat forms.html - will show the code of the file html
+
+tail table.html to see the end of the code
+
+head -n 3 table.html to see up until line 3
+
